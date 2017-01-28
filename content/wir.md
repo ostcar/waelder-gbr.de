@@ -6,18 +6,17 @@ menu:
     weight: 10
 ---
 
-Organisiert sind wir als Wälder GbR (Gesellschaft des bürgerlichen Rechts),
-bestehend aus zwei Bauernhöfen im Umkreis von 50 km.
+<span class="image right">
+  <img src="/images/hofgemeinschaft.jpg" alt="Die menschliche Hofgemeinschaft auf dem Untermühlbachhof">
+</span>
 
-Mathislehof (Hinterzarten): 5 Ammenkühe, Kälber- und Jungviehaufzucht,
-Rindfleischerzeugung, Biotoppflege, Hofladen.
-
-Untermühlbachhof (St.Georgen-Peterzell): 15 Milchkühe (Hofkäserei), Ackerbau
-(u.a. Dinkel und Emmer), Schweinefleischerzeugung, Zugochsen, Wochenmärkte
-Villingen und Königsfeld.
-
-Die Direktvermarktung (Laden und Märkte) ist gewerblich als Hofladen Mathislehof
-GbR ausgegliedert.
+Organisiert sind wir als Wälder GbR und bewirtschaften zwei Höfe im Umkreis von
+50 km. Mathislehof (Hinterzarten): 5 Ammenkühe, Kälber- und Jungviehaufzucht,
+Rindfleischerzeugung, Biotoppflege, Hofladen. Untermühlbachhof
+(St.Georgen-Peterzell): 15 Milchkühe, Hofkäserei, Ackerbau (u.a. Dinkel und
+Emmer), Schweinefleischerzeugung, Zugochsen, Wochenmärkte Villingen und
+Königsfeld. Die Direktvermarktung (Laden und Märkte) ist gewerblich als Hofladen
+Mathislehof GbR ausgegliedert.
 
 #### Die Idee
 
@@ -36,12 +35,11 @@ und Wetter? Das wäre dann ein herrschaftsloser Zustand.
 
 #### Mensch, Tier und Feld
 
-Zur Zeit leben 7 Landwirte mit Kindern, Auszubildende sowie Praktikanten und
+Zur Zeit leben 7 MitarbeiterInnen mit Kindern, Auszubildende sowie Praktikanten und
 Gäste auf den Höfen. Es gibt bei uns keine zahlenden Gäste, was heißen will,
 keine “Ferien auf dem Bauernhof“, außer im Ferienhaus Hüsli. Uns zu besuchen
 bedeutet, uns bei der Arbeit zu begleiten. Der einzige begrenzende Faktor für
-Gäste sind die Sitzplätze am Mittagstisch. Wir erwarten keinen finanziellen
-Beitrag. Der Einkauf zum Mitnehmen erfreut uns.
+Gäste sind die Sitzplätze am Mittagstisch.
 
 Im Vordergrund unserer Bemühungen zu Felde stehen der Futterbau und die Weide.
 Darüber hinaus bauen wir Dinkel, Roggen und gelegentlich auch Hafer an.

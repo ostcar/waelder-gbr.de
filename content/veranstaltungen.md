@@ -6,11 +6,13 @@ menu:
     weight: 30
 ---
 
-<span class="image right"><img src="/images/veranstaltung.jpg" alt="Veranstaltungen auf dem Untermühlbachhof" /></span>
+<span class="image right">
+  <img src="/images/veranstaltung.jpg" alt="Veranstaltungen auf dem Untermühlbachhof" />
+</span>
 
 Wir sind ein Demonstrationsbetrieb (LINK) und es liegt uns am Herzen, unsere Art
 der Landwirtschaft darzustellen. Dies geschieht durch regelmäßige Führungen auf
-und über unseren Hof oder durch Vorträgezu bestimmten landwirtschaftlichen
+und über unseren Hof oder durch Vorträge zu bestimmten landwirtschaftlichen
 Themen. Auf Wunsch können wir Ihnen individuelle Hofführungen anbieten. Fragen
 Sie uns einfach, Tel: 07724-1008. In regelmäßigen Abständen bieten wir zu
 bestimmten Themen Führungen durch unsere Ställe und über die Felder an. Die
@@ -23,38 +25,29 @@ Spende gebeten.
 
 Zeit    | Veranstaltung
 --------|------
-28.5. 15 Uhr | Die biologisch-dynamischen Präparate, Hornmist zum Mitmachen
-25.6. 15 Uhr | Dinkel, Emmer, Waldstaudenroggen - Feldbegehung
-30.7. 12 Uhr | Hoffest, Kultur-Land-Wirtschaft/Land-Wirtschaft-Kultur
-27.8. 15 Uhr | Was ist Tierwohl
-24.9. 15 Uhr | Zukunft säen, gegen Gentechnik
-29.10. 15 Uhr | Heumilch, Weidemilch, H-Milch
-27.11. 16 Uhr | Lichtgang - Stricken, Spinnen, Geschichten und Gesang in und um die Hofküche
+28.1.17 15 Uhr | Lichtgang: Geselliges Stricken, Spinnen und Singen in der Hofküche bei Tee und (mitgebrachtem?) Gebäck
+25.2.17 17 Uhr | Das Geheimnis guten Rauches. Schweine die den Himmel sehen. Schinkenverkostung (Beitrag: 8 Euro)
+25.3.17 15 Uhr | Gemeinsames Backen mit Dinkel, Waldstaudenroggen und Emmer (Beitrag: 5 Euro)
+29.4.17 15 Uhr | Biologisch-dynamisch: Kräftewirkungen in der Landwirtschaft. Vortrag bei Kräutertee und Führung.
+27.5.17 15 Uhr | Hinaus aufs Feld! Was tut sich in der Natur. Rundgang über Feld und Weide, Heimholen der Kühe.
+24.6.17 15 Uhr | Hofrundgang. Ab 16 Uhr: Jammern und Klagen: Probleme um den Biolandbau. Passend dazu: Verkostung von Wein (8 Euro) und Apfelsaft.
+29.7.17 10 bis 18 Uhr Uhr | Ferien auf dem Bauernhof? Ein Tag zum Schnuppern mit Eintopf am Mittag. Ab 20 Uhr dann Lagerfeuer mit Bio-Wurst und -Bier
 
 Die Führungen finden jeweils samstags um 15 Uhr statt und haben verschiedene
 Schwerpunktthemen. Gefördert werden die Veranstaltungen durch das Bundesprogramm
 Ökologischer Landbau. Dauer der Veranstaltung mit Feldrundgang und
-Käseverkostung ca. 2 bis 3 Stunden Für Kinder gibt's einen Spielplatz und einen
-Sandhaufen und viel zu entdecken. Die Veranstaltungen sind kostenlos. Für eine
-Käseverkostung berechnen wir 5 Euro pro Person.
+Käseverkostung ca. 2 bis 3 Stunden.
 
+Für Kinder gibt's einen Spielplatz und einen Sandhaufen und viel zu entdecken.
 
 #### Mathislehof
 
-Sommersonnenwendfeuer auf dem Mathislehof Wir feiern am 21.Juni 2016 auf dem
-Mathisehof bei Hinterzarten die Sommersonnenwende mit einem Feuer. Alle sind
-herzlich eingeladen . Wir beginnen um 16:30Uhr mit einer Hofführung auf dem
-Mathislehof, Oberzartener Weg 2 in 79856 Hinterzarten, Ab 18Uhr finden wir uns
-auf dem hofeigenen Grillplatz zu Würsten und Käse aus eigener Herstellung ein.
-Getränke bieten wir zum Selbstkostenpreis, Essen auf Spendenbasis an. Die Feier
-dauert bis etwa 21Uhr, und findet bei jedem Wetter,notfalls auf der Tenne statt.
-Wir freuen uns auf euer Kommen Samstag, den 9. April um 14.00 Uhr Samstag, den
-14. Mai um 14.00 Uhr Samstag, den 11. Juni um 15.00 Uhr Samstag, den 9. Juli um
-15.00 Uhr Für die Hofführungen auf dem Mathislehof ist eine Anmeldung
-erforderlich. Bitte melden Sie sich bis zum Vorabend unter 07652 982582
-telefonisch an. Herzlichen Dank! Die Führungen finden bei jedem Wetter statt.
-Wir bitten daher um passende Kleidung und entsprechendes Schuhwerk. Die
-Käseprobe findet je nach Wetter draußen oder im Futtergang im Stall statt.
-Weitere Termine Samstag, den 18. Juni um 19.00 Uhr - wahrscheinlich ein
-Sommerfeuer Dezember um 18.00 Uhr - wahrscheinlich ein Winterfeuer mit
-Glühwei(h)nacht
+Für die Hofführungen auf dem Mathislehof ist eine Anmeldung erforderlich. Bitte
+melden Sie sich bis zum Vorabend unter 07652 982582 telefonisch an. Herzlichen
+Dank!
+
+Die Führungen finden bei jedem Wetter statt. Wir bitten daher um passende
+Kleidung und entsprechendes Schuhwerk. Die Käseprobe findet je nach Wetter
+draußen oder im Futtergang im Stall statt.
+
+Konkrete Termine folgen noch

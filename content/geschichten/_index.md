@@ -6,6 +6,5 @@ menu:
     weight: 40
 ---
 
-Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac
-faucibus integer non. Adipiscing cubilia elementum integer lorem ipsum dolor sit
-amet.
+Allerlei passiert auf den Höfen. Hier sind einige Anekdoten, andere sind im
+Büchlein "Der Wagenlenker" veröffentlicht.
