@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<!--
+Read Only by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css" />
+  <title>{{ .Title }}</title>
+  {{ .Hugo.Generator }}
+</head>
+<body>
+  <!-- Header -->
+  <section id="header">
+    <header>
+      <span class="image avatar"><img src="{{ .Site.BaseURL }}images/logo.png" alt="" /></span>
+      <h1 id="logo"><a href="{{ .Site.BaseURL }}">Wälder GbR</a></h1>
+      <p class="address">
+        Mühlbach 1, 78112 St. Georgen<br>
+        Tel. 07724-1008<br>
+        waelder_gbr@posteo.de
+      </p>
+    </header>
+    <nav id="nav">
+      <ul>
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        <li>
+          <a href="{{ .URL }}"{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}  class="active"{{end}}>{{ .Name }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </nav>
+  </section>
+
+  <!-- Wrapper -->
+  <div id="wrapper">
+    <!-- Main -->
+    <div id="main">

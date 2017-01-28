@@ -1,0 +1,36 @@
+---
+title: "Waelder GbR"
+baseURL: "https://waelder-gbr.de/"
+languageCode: "de-de"
+theme: "waelder"
+
+metaDataFormat:             "yml"
+
+
+# include content marked as draft
+buildDrafts:                false
+# include content with publishdate in the future
+buildFuture:                false
+# include content already expired
+buildExpired:               false
+# enable this to make all relative URLs relative to content root. Note that this does not affect absolute URLs.
+relativeURLs:               false
+canonifyURLs:               false
+
+disableLiveReload:          false
+# Do not build Sitemap file
+disableSitemap:             false
+# Enable Emoji emoticons support for page content.
+# See www.emoji-cheat-sheet.com
+enableEmoji:                false
+# if true, use /filename.html instead of /filename/
+uglyURLs:                   false
+# Do not make the url/path to lowercase
+disablePathToLower:         false
+# verbose output
+verbose:                    false
+# verbose logging
+verboseLog:                 false
+# watch filesystem for changes and recreate as needed
+watch:                      true
+---

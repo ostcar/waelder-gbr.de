@@ -1,0 +1,15 @@
+{{ partial "header.html" . }}
+
+<section id="one">
+	<div class="container">
+		<header class="major">
+			<h2>{{ .Title }}</h2>
+			<p>{{ .Params.subtitle }}</p>
+		</header>
+		<p>
+			{{ .Content }}
+		</p>
+	</div>
+</section>
+
+{{ partial "footer.html" . }}
